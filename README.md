@@ -8,7 +8,7 @@ This is a simple tool to help speed up the initial stages of your development. U
 
 ## Authors
 
-* **Justin Hyde** - *Initial work* - (https://www.justinhyde.co.za)/(https://github.com/JustinResources)
+**Justin Hyde** - *Initial work* - (https://www.justinhyde.co.za)/(https://github.com/JustinResources)
 
 ## License
 
