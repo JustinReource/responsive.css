@@ -2,9 +2,8 @@
 # Responsive Framework CSS
 
 Name: responsive-framework.css
-Source URL: http://www.justinhyde.co.za/resources
-Version: 1.2
-Description: General and specific CSS breakpoints
+Source URL: https://github.com/JustinResources/responsive-framework.css/blob/master/responsive-framework.css
+Description: General CSS breakpoints
 Author: Justin Hyde
 Author URL: http://www.justinhyde.co.za
 License: MIT License | http://www.justinhyde.co.za
@@ -12,12 +11,11 @@ License: MIT License | http://www.justinhyde.co.za
 /*--------------------------------------------------------------
 >>> TABLE OF CONTENTS:
 ----------------------------------------------------------------
-# General Device Styling
-	## Mobile First
-		### Em
-		### Pixel
-	## Target Individual Device Types
-	## Desktop First
+# Mobile First
+	## Em
+	## Pixel
+# Target Individual Device Types
+# Desktop First
 # License
 
 --------------------------------------------------------------*/
