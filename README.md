@@ -1,8 +1,6 @@
 # responsive-media-queries.css
 
-A comprehensive list of media queries to use on your project
-* General media queries - [responsive-framework.css](responsive-framework.css)
-* Specific media queries - [responsive-framework-specific-device-styling.css](responsive-framework-specific-device-styling.css)
+A comprehensive list of general media queries to use on your project - [responsive-framework.css](responsive-framework.css)
 
 ## Getting Started
 
